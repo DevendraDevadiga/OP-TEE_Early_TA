@@ -13,7 +13,7 @@ Add a command in U-Boot level to communicate with OP-TEE Early TA
 
 https://youtu.be/WPAljopdWGg
 
-Run OP-TEE on QEMU v8
+Run OP-TEE and x-test on QEMU v8
 
 https://youtu.be/m8WlSanGDwI
 
